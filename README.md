@@ -15,7 +15,7 @@ I analzyed his controversial Tweets related to Tesla, trans rights, and his poli
 
 ## Future Directions
 
-The scope of this project was limited, as it focused on Musk's Twitter activity before he purchased Twitter. Future directions include researching the more recent effect of Elon Musk’s Tweets on Twitter and Tesla’s stock, specifically after Musk announced he would become CEO of Twitter and taking the company private. 
+The scope of this project was limited, as it focused on Musk's Twitter activity before he purchased Twitter. Future directions include researching the more recent effect of Elon Musk’s Tweets on Twitter and Tesla’s stock, specifically after Musk announced he would become CEO of Twitter and take the company private. 
 
 
 ## Author
